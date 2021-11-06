@@ -41,7 +41,7 @@ a{
     
 }
 .nav-item .nav-link:hover{
-    color: var(--prim)!important;
+    color: var(--seco)!important;
 }
 .navbar-light .navbar-toggler{
     border: none;
@@ -51,7 +51,7 @@ a{
 }
 /*--------------------------header-----------------------------*/
 .head
-{   background-color:#85d5fa;
+{   background-color:#bae7fc;
     background: linear-gradient(315deg #000 0%, #000 74%);
 /*background-image: url(http://www.transparenttextures.com/patterns/inspiration-geometry.png);*/
 }
@@ -65,7 +65,7 @@ a{
     font-size: 18px;
     color:var(--prim); background-color:var(--main);
     font-weight: 600;
-    border-radius: 15px;
+    border-radius: 5px;
     border-bottom-left-radius: 0;
     border-bottom-right-radius:0 ;
 }
@@ -77,8 +77,8 @@ a{
 .head .card{
   width: 20rem;
   margin:0px auto;
-  border-radius: 15px;
-  background: rgb(243, 240, 240);
+  border-radius: 5px;
+  background: #f1f0f0;
 }
 
 @media(max-width:300px) {
@@ -91,7 +91,9 @@ a{
         width: auto;
     }
 }
-.ic{color: var(--seco);}
+.ic
+{color: var(--seco);}
+
 .point{
     color: var(--main);
     font-weight: 600;
@@ -169,7 +171,7 @@ a{
 /*-----------------------------------------------*/
 
 .intro{
-    background-color: #85d5fa;
+    background-color: #bae7fc;
 }
 /*-------------------*/
 .news{
