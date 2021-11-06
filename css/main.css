@@ -70,7 +70,7 @@ a{
     border-bottom-right-radius:0 ;
 }
 .head  input{
-    background-color: #f1f0f0;
+    background-color: #fffdfd;
     border: 1px solid var(--prim);
     border-radius: 7px;
 }
@@ -78,7 +78,7 @@ a{
   width: 20rem;
   margin:0px auto;
   border-radius: 5px;
-  background: #f1f0f0;
+  background: #fffdfd;
 }
 
 @media(max-width:300px) {
